@@ -32,11 +32,13 @@ fit the model and then predict
 ### True Stock Price, Predicted Stock Price vs time
 
 Include your plot here
+![1](https://user-images.githubusercontent.com/75235402/195600311-4ebd4c42-a937-4c31-8126-9641a4178451.png)
 
-![image](https://user-images.githubusercontent.com/75235128/194798713-817e45d3-e08f-4a14-bce2-30b85bbf8f1f.png)
+
 
 Include the mean square error
-![image](https://user-images.githubusercontent.com/75235128/194798726-88cb11eb-177b-4ae8-a1dc-71160b4fd31d.png)
+![2](https://user-images.githubusercontent.com/75235402/195600355-0798507c-69dd-4407-923b-7eab87e84ae3.png)
+
 
 ## RESULT
 Thus a Recurrent Neural Network model for stock price prediction is created and executed successfully.
